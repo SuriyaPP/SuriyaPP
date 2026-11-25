@@ -1,55 +1,95 @@
-# 👋 Hi, I'm Suriya Prakash
 
-Frontend Lead & Full-Stack Developer from Madurai, India, building scalable, user-friendly web applications. I run **CorpIndex**, a multi-tenant SaaS ERP platform for accounting and NGO/trust clients.
+# 👋 Hi, I'm Suriya Prakash!
 
-- 💻 **Working with:** Java, Spring Boot, React.js, Redux, PHP (CodeIgniter), MySQL, MongoDB, Python
-- 📚 **Learning:** System Design, Microservices Architecture, Cloud Integrations
-- 🚀 **Love:** solving real-world business problems through code
-- 🤝 **Open to:** full-stack collaborations and open-source contributions
-- 📧 **Reach me:** [duraisuriya2612@gmail.com](mailto:duraisuriya2612@gmail.com)
+### 🚀 Java Full Stack Developer | Software Engineer | Tech Enthusiast
 
-## 🌐 Socials
+I'm a passionate Software Developer with **6+ years of experience** in building scalable, efficient, and user-friendly applications. I enjoy designing backend architectures, developing modern web interfaces, integrating APIs, and solving real-world business problems through technology.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK_HANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/durai_s_u_r_i_y_a)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:duraisuriya2612@gmail.com)
+- 💻 **Backend:** Java, Spring Boot, PHP, REST APIs
+- 🎨 **Frontend:** React.js, Vue.js, JavaScript, Quasar, Bootstrap
+- 🗄️ **Databases:** MongoDB, MySQL, PostgreSQL, NoSQL
+- ☁️ **Cloud & DevOps:** AWS, Azure, Apache, Tomcat
+- 📚 **Currently Exploring:** System Design, Microservices, Cloud Architecture, AI Integration
+- 🤝 Open to collaboration, innovative projects, and open-source contributions.
+- ⚡ Passionate about clean code, continuous learning, and building impactful solutions.
 
-## 🛠️ Tech Stack
+📧 **Email:** [duraisuriya2612@gmail.com](mailto:duraisuriya2612@gmail.com)
 
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
 
-**Backend**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## 🌐 Connect With Me
 
-**Databases & Tools**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/DuraiSurya)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/durai_s_u_r_i_y_a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SuryaPrakash.P)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duraisuriya2612@gmail.com)
 
-## 📊 GitHub Stats
+---
 
-![Suriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuriyaPP&theme=dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false)
+## 💻 Tech Stack
 
-![GitHub streak](https://streak-stats.demolab.com/?user=SuriyaPP&theme=dark&hide_border=false)
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaPP&theme=dark&hide_border=false&layout=compact)
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+
+### Database & Search
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0377CC?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### Cloud, Tools & Technologies
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=SuriyaPP&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=SuriyaPP&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaPP&theme=tokyonight&hide_border=true&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SuriyaPP&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SuriyaPP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## ✍️ Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=SuriyaPP&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+### 💡 "Great software is built with curiosity, consistency, and a passion for solving problems."
+
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
