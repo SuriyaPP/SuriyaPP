@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Suriya Prakash, a passionate Junior Java Full Stack Developer with a strong interest in building scalable, efficient, and user-friendly applications.<br><br>💻 Skilled in Core Java, Spring Boot, MongoDB, NoSQL, JavaScript, React.js, Quasar, Bootstrap<br><br>📚 Currently learning System Design, Microservices Architecture, and Cloud Integrations<br><br>🚀 Love solving real-world problems through code<br><br>🤝 Open to collaborations on full-stack projects and open-source contributions<br><br>✨ Believe in continuous learning and innovation<br><br>📧 Reach me at duraisuriya2612@gmail.com
+I’m Suriya Prakash, a passionate  Java Full Stack Developer with a strong interest in building scalable, efficient, and user-friendly applications.<br><br>💻 Skilled in Core Java, Spring Boot, MongoDB, NoSQL, JavaScript, React.js, Quasar, Bootstrap<br><br>📚 Currently learning System Design, Microservices Architecture, and Cloud Integrations<br><br>🚀 Love solving real-world problems through code<br><br>🤝 Open to collaborations on full-stack projects and open-source contributions<br><br>✨ Believe in continuous learning and innovation<br><br>📧 Reach me at duraisuriya2612@gmail.com
 
 
 ## 🌐 Socials:
